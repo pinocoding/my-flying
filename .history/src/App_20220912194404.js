@@ -7,9 +7,9 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <Routes basename="/my-flying">
-        <Route path="/" element={<Home />} />
-        <Route path="/list" element={<List />} />
+      <Routes>
+        <Route path="/my-flying" element={<Home />} />
+        <Route path="/my-flying/list" element={<List />} />
       </Routes>
     </div>
   );
