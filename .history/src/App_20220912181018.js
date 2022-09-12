@@ -7,12 +7,12 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <HashRouter>
+      <BrowserRouter>
         <Routes>
-          <Route base="/" element={<Home />} />
-          <Route base="/" element={<List />} />
+          <Route path="/" element={<Home />} />
+          <Route path="/list" element={<List />} />
         </Routes>
-      </HashRouter>
+      </BrowserRouter>
     </div>
   );
 }
