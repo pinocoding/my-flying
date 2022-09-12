@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/my-flying/static/css/main.53c8ad9b.css",
+    "main.js": "/my-flying/static/js/main.9a8d1935.js",
+    "static/js/787.f550d172.chunk.js": "/my-flying/static/js/787.f550d172.chunk.js",
+    "static/media/homebackground.jpg": "/my-flying/static/media/homebackground.59d26069bcdeda0c4ce8.jpg",
+    "static/media/Biennale-Bold.otf": "/my-flying/static/media/Biennale-Bold.81b881e3eed3399c25ae.otf",
+    "static/media/Biennale-Light.otf": "/my-flying/static/media/Biennale-Light.05e8964b811364de934c.otf",
+    "static/media/Biennale-Medium.otf": "/my-flying/static/media/Biennale-Medium.a97ce3f7a3d836a1e4b0.otf",
+    "static/media/airline.jpg": "/my-flying/static/media/airline.adccf84911c2c574ade3.jpg",
+    "static/media/usa.svg": "/my-flying/static/media/usa.cdc1d233453152774a786dff6af47d62.svg",
+    "index.html": "/my-flying/index.html",
+    "static/media/vn.svg": "/my-flying/static/media/vn.96f8c046147fb32a009ba122f35312aa.svg",
+    "main.53c8ad9b.css.map": "/my-flying/static/css/main.53c8ad9b.css.map",
+    "main.9a8d1935.js.map": "/my-flying/static/js/main.9a8d1935.js.map",
+    "787.f550d172.chunk.js.map": "/my-flying/static/js/787.f550d172.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53c8ad9b.css",
+    "static/js/main.9a8d1935.js"
+  ]
+}
