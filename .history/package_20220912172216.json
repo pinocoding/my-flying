@@ -1,6 +1,6 @@
 {
   "name": "my-flying",
-  "homepage": "https://pinocoding.github.io/Flying/",
+  "homepage":"https://pinocoding.github.io/my-amazon-app/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
