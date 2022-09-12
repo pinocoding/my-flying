@@ -1,22 +1,31 @@
 {
   "files": {
-    "main.css": "/my-flying/static/css/main.53c8ad9b.css",
-    "main.js": "/my-flying/static/js/main.9a8d1935.js",
-    "static/js/787.f550d172.chunk.js": "/my-flying/static/js/787.f550d172.chunk.js",
-    "static/media/homebackground.jpg": "/my-flying/static/media/homebackground.59d26069bcdeda0c4ce8.jpg",
-    "static/media/Biennale-Bold.otf": "/my-flying/static/media/Biennale-Bold.81b881e3eed3399c25ae.otf",
-    "static/media/Biennale-Light.otf": "/my-flying/static/media/Biennale-Light.05e8964b811364de934c.otf",
-    "static/media/Biennale-Medium.otf": "/my-flying/static/media/Biennale-Medium.a97ce3f7a3d836a1e4b0.otf",
-    "static/media/airline.jpg": "/my-flying/static/media/airline.adccf84911c2c574ade3.jpg",
-    "static/media/usa.svg": "/my-flying/static/media/usa.cdc1d233453152774a786dff6af47d62.svg",
+    "main.css": "/my-flying/static/css/main.8069b5e4.chunk.css",
+    "main.js": "/my-flying/static/js/main.a2ad3740.chunk.js",
+    "main.js.map": "/my-flying/static/js/main.a2ad3740.chunk.js.map",
+    "runtime-main.js": "/my-flying/static/js/runtime-main.3e76e1d2.js",
+    "runtime-main.js.map": "/my-flying/static/js/runtime-main.3e76e1d2.js.map",
+    "static/css/2.a727f6b3.chunk.css": "/my-flying/static/css/2.a727f6b3.chunk.css",
+    "static/js/2.79330068.chunk.js": "/my-flying/static/js/2.79330068.chunk.js",
+    "static/js/2.79330068.chunk.js.map": "/my-flying/static/js/2.79330068.chunk.js.map",
+    "static/js/3.1ea5935c.chunk.js": "/my-flying/static/js/3.1ea5935c.chunk.js",
+    "static/js/3.1ea5935c.chunk.js.map": "/my-flying/static/js/3.1ea5935c.chunk.js.map",
     "index.html": "/my-flying/index.html",
-    "static/media/vn.svg": "/my-flying/static/media/vn.96f8c046147fb32a009ba122f35312aa.svg",
-    "main.53c8ad9b.css.map": "/my-flying/static/css/main.53c8ad9b.css.map",
-    "main.9a8d1935.js.map": "/my-flying/static/js/main.9a8d1935.js.map",
-    "787.f550d172.chunk.js.map": "/my-flying/static/js/787.f550d172.chunk.js.map"
+    "static/css/2.a727f6b3.chunk.css.map": "/my-flying/static/css/2.a727f6b3.chunk.css.map",
+    "static/css/main.8069b5e4.chunk.css.map": "/my-flying/static/css/main.8069b5e4.chunk.css.map",
+    "static/js/2.79330068.chunk.js.LICENSE.txt": "/my-flying/static/js/2.79330068.chunk.js.LICENSE.txt",
+    "static/media/Biennale-Bold.81b881e3.otf": "/my-flying/static/media/Biennale-Bold.81b881e3.otf",
+    "static/media/index.css": "/my-flying/static/media/Biennale-Medium.a97ce3f7.otf",
+    "static/media/airline.adccf849.jpg": "/my-flying/static/media/airline.adccf849.jpg",
+    "static/media/homebackground.59d26069.jpg": "/my-flying/static/media/homebackground.59d26069.jpg",
+    "static/media/usa.cdc1d233.svg": "/my-flying/static/media/usa.cdc1d233.svg",
+    "static/media/vn.96f8c046.svg": "/my-flying/static/media/vn.96f8c046.svg"
   },
   "entrypoints": [
-    "static/css/main.53c8ad9b.css",
-    "static/js/main.9a8d1935.js"
+    "static/js/runtime-main.3e76e1d2.js",
+    "static/css/2.a727f6b3.chunk.css",
+    "static/js/2.79330068.chunk.js",
+    "static/css/main.8069b5e4.chunk.css",
+    "static/js/main.a2ad3740.chunk.js"
   ]
 }
