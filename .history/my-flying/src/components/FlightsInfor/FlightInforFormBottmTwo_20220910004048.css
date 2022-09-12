@@ -1,0 +1,36 @@
+.FlightInforFormBottmTwo {
+  padding: 0 15px;
+  display: flex;
+  justify-content: flex-start;
+}
+.conditions {
+  width: 355px;
+}
+.from-to {
+  display: flex;
+  margin-top: 14px;
+  position: relative;
+}
+.price-details-container {
+  display: flex;
+  padding-bottom: 5px;
+  border-bottom: 1px solid rgba(77, 70, 250, 0.1);
+}
+
+.price-detailspay {
+  margin-top: 5px;
+  display: flex;
+}
+.price-details-right {
+  margin-left: 171px;
+}
+.price-detailspay-right {
+  margin-left: 260px;
+}
+.to-location {
+  margin-left: 60px;
+}
+.from-to ::after {
+  content: "";
+  
+}

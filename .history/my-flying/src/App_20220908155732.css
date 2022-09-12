@@ -1,0 +1,9 @@
+* {
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+}
+.App { 
+  max-width: 1512px;
+  margin: 0 autp;
+}

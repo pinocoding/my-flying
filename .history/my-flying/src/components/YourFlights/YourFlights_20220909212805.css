@@ -1,0 +1,75 @@
+.yourflights {
+  width: 270px;
+  height: 433px;
+
+  background: #ffffff;
+  border-radius: 12px;
+}
+.yourflights-tittle {
+  padding: 14px 15px;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 21px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+
+  color: #000000;
+  padding-bottom: 15px;
+
+  border-bottom: 1px solid rgba(77, 70, 250, 0.1);
+}
+
+.yourflights-total {
+  background: #f8f8f8;
+  border-radius: 0px 0px 12px 12px;
+}
+
+.yourflights-changeDeparture {
+  color: #4d46fa;
+  font-family: "SVN-Biennale";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 18px;
+  padding: 10px 51px;
+  width: 240px;
+  background: rgba(77, 70, 250, 0.1);
+  border-radius: 12px;
+}
+.yoursflight-wrapper {
+  padding: 15px 15px;
+
+  border-bottom: 1px solid rgba(77, 70, 250, 0.1);
+}
+.yourflights-date {
+  display: flex;
+  align-items: center;
+}
+.yourflights-dateTop {
+  font-family: "SVN-Biennale";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+  /* identical to box height */
+
+  color: #000000;
+}
+.yourflights-dateBottom {
+  font-family: "SVN-Biennale";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 21px;
+
+  color: #000000;
+}
+.yourflights-dateLogo {
+  width: 30px;
+  height: 30px;
+  background: #979797;
+  border-radius: 50%;
+  margin-right: 15px;
+  justify-content: center;
+  display: ;
+}

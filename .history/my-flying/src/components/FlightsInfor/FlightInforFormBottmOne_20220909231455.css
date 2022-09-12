@@ -1,0 +1,48 @@
+.FlightInforFormBottmOne {
+  padding: 0px 15px;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.FlightInforFormBottmOne-left {
+  width: 370px;
+  display: flex;
+  position: relative;
+}
+.FlightInforFormBottmOne-left::after {
+  content: "";
+  position: absolute;
+  width: 2px;
+  height: 136px;
+
+  top: 16px;
+  left: 70px;
+  background: rgba(77, 70, 250, 1);
+}
+
+.FlightInforFormBottmOne-left::before {
+  content: "";
+  position: absolute;
+  width: 2px;
+  height: 136px;
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  top: 16px;
+  left: 70px;
+  background: rgba(77, 70, 250, 1);
+}
+
+.FlightInforFormBottmOne-left-date {
+  padding-right: 22px;
+}
+.FlightInforFormBottmOne-right-date {
+  padding-left: 30px;
+}
+.date-mid {
+  margin: 32px 0 51px 0;
+}
+
+.date-right-top {
+  margin-bottom: 104px;
+}

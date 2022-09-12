@@ -1,0 +1,16 @@
+@font-face {
+  font-family: "SVN-Biennale";
+  src: local("SVN-Biennale"),
+    url("./font/SVN-Biennale/Biennale-Light.otf") format("opentype");
+
+  font-weight: li;
+}
+
+@font-face {
+  font-family: "SVN-Biennale";
+  src: local("SVN-Biennale"),
+    url("./font/SVN-Biennale/Biennale-Light.otf") format("opentype");
+
+  font-weight: bold;
+}
+

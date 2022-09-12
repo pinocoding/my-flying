@@ -1,0 +1,58 @@
+.headerList {
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  width: 1512px;
+  height: 80px;
+  background: #4d46fa;
+  padding: 22px 171px 22px 171px;
+}
+.headerList-logo {
+  display: flex;
+}
+.headerList-logo-name {
+  font-weight: 600;
+  font-size: 20px;
+  align-items: center;
+  display: flex;
+  color: white;
+}
+.headerList-nav {
+  display: flex;
+  list-style: none;
+  justify-content: space-between;
+  gap: 0 30px;
+  align-items: center;
+}
+.headerList-nav li a {
+  color: rgba(0, 0, 0, 1);
+  text-decoration: none;
+  font-family: "SVN-Biennale";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 21px;
+  color: white;
+  text-align: center;
+  letter-spacing: 0.05em;
+}
+.headerList-nav:hover  {
+  display: flex;
+  list-style: none;
+  justify-content: space-between;
+  gap: 0 30px;
+  align-items: center;
+}
+.headerList-booking {
+  background-color: #ffff;
+  color: rgba(77, 70, 250, 1);
+  height: 41px;
+  width: 118px;
+  left: 1223px;
+  top: 38px;
+  border-radius: 12px;
+  padding: 10px 16px 10px 16px;
+  border: none;
+  cursor: pointer;
+  font-weight: 600;
+}

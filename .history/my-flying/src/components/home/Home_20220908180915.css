@@ -1,0 +1,14 @@
+.home {
+  max-width: 100%;
+  position: relative;
+}
+.home-img {
+  position: absolute;
+  top: 0;
+  left:0;
+width: 100%;
+}
+.home-img img {
+  width: 100%;
+  z-index: -1;
+}

@@ -1,0 +1,30 @@
+.subheader {
+  width: 100%;
+  padding: 19px 171px 19px 171px;
+  background-color: #fff;
+  display: flex;
+}
+.subheader-location {
+  display: flex;
+  justify-content: space-between;
+}
+
+.subheader-list {
+  display: flex;
+}
+
+.subheader-btn {
+  padding: 10px 16px 10px 16px;
+  border: none;
+  border-radius: 12px;
+  background: #f06336;
+  color: #fff;
+  font-family: "SVN-Biennale";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 21px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

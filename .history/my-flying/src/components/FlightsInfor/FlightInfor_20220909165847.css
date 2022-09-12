@@ -1,0 +1,12 @@
+.flight-container {
+  width: 100%;
+  background: #ffffff;
+  border-radius: 12px;
+  padding: 23px 19 
+}
+
+.flight-container ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+}

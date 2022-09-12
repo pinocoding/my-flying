@@ -1,0 +1,14 @@
+.list-container {
+  display: flex;
+
+  padding: 0 171px 0 171px;
+}
+
+.list-row {
+  width: 100%;
+}
+.list {
+  background-color: #e5e5e5;
+  position: relative;
+  z-index: -2;
+}

@@ -1,0 +1,27 @@
+.home {
+
+  position: relative;
+}
+
+.home-hero {
+  padding: 156px 0px 0px 171px;
+}
+.home-hero p {
+  font-family: "SVN-Biennale";
+  font-style: normal;
+  font-weight: medium;
+  font-size: 72px;
+  line-height: 105px;
+}
+.home-img {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  z-index: -1;
+}
+.home-img img {
+  width: 100%;
+  object-fit: cover;
+  height: 803px;
+}

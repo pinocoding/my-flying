@@ -1,0 +1,17 @@
+import React from "react";
+import FlightInforForm from "../FlightsInfor/FlightInforForm";
+import FlightInforFormBottmOne from "../FlightsInfor/FlightInforFormBottmOne";
+import "./FlightForm.css";
+function FlightForm({ img, name }) {
+  return (
+    <div className="flightForm">
+      <div>
+        <FlightInforForm img={img} name={name} />
+
+        <FlightInforFormBottmOne />
+      </div>
+    </div>
+  );
+}
+
+export default FlightForm;

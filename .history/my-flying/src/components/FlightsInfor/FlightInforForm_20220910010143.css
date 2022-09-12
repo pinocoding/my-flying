@@ -1,0 +1,186 @@
+.FlightInforForm-container {
+  width: 890px;
+  height: 124px;
+  border-radius: 12px;
+  background: #ffffff;
+  border-radius: 12px;
+  padding: 23px 15px 0px 23px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.FlightInforForm-list-container {
+  display: flex;
+
+  justify-content: space-between;
+}
+.FlightInforForm-stuff {
+  list-style: none;
+  display: flex;
+  gap: 0 40px;
+}
+.FlightInforForm-eat {
+  list-style: none;
+  display: flex;
+  gap: 0 30px;
+}
+.FlightInforForm-list {
+  align-items: center;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  gap: 0 12px;
+}
+.FlightInforForm-name {
+  font-family: "SVN-Biennale";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 21px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.FlightInforForm-meal p {
+  font-family: "SVN-Biennale";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+}
+
+.FlightInforForm-old {
+  font-family: "SVN-Biennale";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+  color: rgba(0, 0, 0, 1);
+  /* identical to box height */
+
+  text-decoration-line: line-through;
+}
+
+.FlightInforForm-new {
+  font-family: "SVN-Biennale";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 21px;
+
+  color: #f06336;
+}
+.FlightInforForm-choose {
+  padding: 6px 15px;
+  border: none;
+  color: #f06336;
+  font-family: "SVN-Biennale";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 21px;
+  background: rgba(240, 99, 54, 0.1);
+  border-radius: 12px;
+}
+.FlightInforForm-choose:hover {
+  cursor: pointer;
+  background: #f06336;
+  color: #ffffff;
+}
+.FlightInforForm-img {
+  width: 30px;
+  padding-top: 3px;
+  height: 30px;
+  overflow: hidden;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 6px;
+}
+.FlightInforForm-img img {
+  width: 100%;
+  object-fit: fill;
+}
+.FlightInforForm-details {
+  display: flex;
+  list-style: none;
+  gap: 0 30px;
+  position: relative;
+}
+
+.FlightInforForm-details::after {
+  position: absolute;
+  content: "";
+  top: 50%;
+  left: 195px;
+  width: 654px;
+  height: 1px;
+  background-color: rgba(77, 70, 250, 0.1);
+}
+.FlightInforForm-details li {
+  font-family: "SVN-Biennale";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 18px;
+  text-transform: uppercase;
+  color: rgba(0, 0, 0, 1);
+  opacity: 0.4;
+}
+
+.FlightInforForm-details li:hover {
+  color: rgba(77, 70, 250, 1);
+  opacity: 1;
+}
+.FlightInforForm-time {
+  font-family: "SVN-Biennale";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 21px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+.FlightInforForm-direc {
+  font-family: "SVN-Biennale";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+  position: relative;
+  color: #000000;
+}
+.FlightInforForm-direc::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: -40%;
+  width: 78px;
+  height: 1px;
+  background-color: rgba(77, 70, 250, 1);
+}
+.FlightInforForm-direc::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: -49%;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  transform: translate(-50%, -50%);
+  background: #ffffff;
+  border: 1px solid #4d46fa;
+}
+.FlightInforForm-date {
+  position: relative;
+}
+.FlightInforForm-date::after {
+  content: "";
+  position: absolute;
+  top: 21px;
+  left: -49%;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  transform: translate(-50%, -50%);
+  background: #ffffff;
+  border: 1px solid #4d46fa;
+}

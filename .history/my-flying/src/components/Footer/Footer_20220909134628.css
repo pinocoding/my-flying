@@ -1,0 +1,47 @@
+.footer {
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  width: 100%;
+  padding: 70px 171px 40px 171px;
+}
+.footer ul {
+  list-style: none;
+  display: flex;
+  gap: 0 30px;
+}
+.footer-link { 
+  
+  
+  
+  po
+}
+.footer-icon {
+  color: black;
+  position: relative;
+}
+
+.footer-icon:after {
+  content: "";
+  position: absolute;
+  top: 210px;
+  left: 88px;
+  right: -141px;
+  height: 118px;
+  background-color: black;
+
+  z-index: -1;
+}
+.footer ul li span {
+  padding-left: 5px;
+  font-family: "SVN-Biennale";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+  /* identical to box height */
+
+  letter-spacing: 0.1em;
+
+  color: #000000;
+}

@@ -1,0 +1,6 @@
+@font-face {
+font-family: "SVN-Biennale";
+src: local("SVN-Biennale"),
+ url("./font/SVN-Biennale/") format("truetype");
+font-weight: bold;
+}

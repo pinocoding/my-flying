@@ -1,0 +1,25 @@
+.yourflights {
+  width: 270px;
+  height: 433px;
+
+  background: #ffffff;
+  border-radius: 12px;
+  padding: 14px 15px;
+}
+.yourflights-tittle {
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 21px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+
+  color: #000000;
+  padding-bottom: 15px;
+
+  border-bottom: 1px solid #000000 0.5;
+}
+
+.yourflights-total {
+  background: #f8f8f8;
+  border-radius: 0px 0px 12px 12px;
+}

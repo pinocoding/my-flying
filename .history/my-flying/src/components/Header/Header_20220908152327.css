@@ -1,0 +1,8 @@
+.header {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+.header-booking {
+  background-color: var(--Blue-color);
+}

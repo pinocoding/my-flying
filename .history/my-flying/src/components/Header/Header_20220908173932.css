@@ -1,0 +1,43 @@
+.header {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+.header-logo {
+  display: flex;
+}
+.header-logo-name {
+  font-weight: 600 ;
+  font-size: 30px;
+}
+.header-nav {
+  display: flex;
+  list-style: none;
+  justify-content: space-between;
+  text-align: center;
+}
+.header-nav li a {
+  color: rgba(0, 0, 0, 1);
+  text-decoration: none;
+  font-family: "SVN-Biennale";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+  /* identical to box height */
+
+  text-align: center;
+  letter-spacing: 0.05em;
+}
+.header-booking {
+  background-color: rgba(77, 70, 250, 1);
+  color: white;
+  height: 41px;
+  width: 118px;
+  left: 1223px;
+  top: 38px;
+  border-radius: 12px;
+  padding: 10px 16px 10px 16px;
+  border: none;
+  cursor: pointer;
+}

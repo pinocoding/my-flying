@@ -1,0 +1,63 @@
+.flight-container {
+  width: 100%;
+  background: #ffffff;
+  border-radius: 12px;
+  padding: 23px 15px 19px 23px;
+}
+
+.flight-container .flight-list {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+}
+
+.flight-meal p {
+  font-family: "SVN-Biennale";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+}
+
+.flight-container ul {
+  list-style: none;
+  display: flex;
+}
+.flight-old {
+  font-family: "SVN-Biennale";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+  color: rgba(0, 0, 0, 1);
+  /* identical to box height */
+
+  text-decoration-line: line-through;
+}
+
+.flight-new {
+  font-family: "SVN-Biennale";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 21px;
+
+  color: #f06336;
+}
+.flight-choose button {
+  padding: 6px 15px;
+  border: none;
+  color: #f06336;
+  font-family: "SVN-Biennale";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 21px;
+  background: rgba(240, 99, 54, 0.1);
+  border-radius: 12px;
+}
+.flight-img { 
+  width: ;
+  
+  
+}

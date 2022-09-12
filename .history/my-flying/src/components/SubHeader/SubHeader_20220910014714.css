@@ -1,0 +1,41 @@
+.subheader {
+  width: 100%;
+  padding: 19px 171px 19px 171px;
+  background-color: #fff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.subheader-location {
+  display: flex;
+  gap: 0 157px;
+}
+
+.subheader-list {
+  display: flex;
+  margin-left: 94px;
+}
+.subheader-list-itemOne {
+  padding-right: 15px;
+  border-right: 1px solid rgba(77, 70, 250, 0.1);
+}
+.subheader-list-itemTwo {
+  padding: 0 15px 0 15px;
+  border-right: 1px solid rgba(77, 70, 250, 0.1);
+}
+
+.subheader-btn {
+  padding: 10px 16px 10px 16px;
+  border: none;
+  border-radius: 12px;
+  background: #f06336;
+  color: #fff;
+  font-family: "SVN-Biennale";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 21px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

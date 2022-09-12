@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+  font-family: 'SVN-Biennale', Courier, monospace;
+}
+.App { 
+
+  margin: 0 auto;
+}

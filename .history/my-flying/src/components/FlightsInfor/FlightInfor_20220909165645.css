@@ -1,0 +1,10 @@
+.flight-container {
+  width: 100%;
+  background-color: ;
+}
+
+.flight-container ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+}

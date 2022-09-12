@@ -1,0 +1,143 @@
+.yourflights {
+  width: 270px;
+  height: 433px;
+
+  background: #ffffff;
+  border-radius: 12px;
+}
+.yourflights-tittle {
+  padding: 14px 15px;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 21px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+
+  color: #000000;
+  padding-bottom: 15px;
+
+  border-bottom: 1px solid rgba(77, 70, 250, 0.1);
+}
+
+.yourflights-total {
+  padding: 15px 15px;
+  background: #f8f8f8;
+  border-radius: 0px 0px 12px 12px;
+  height: 72px;
+}
+
+.yourflights-changeDeparture {
+  color: #4d46fa;
+  font-family: "SVN-Biennale";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 18px;
+  padding: 10px 51px;
+  width: 240px;
+  background: rgba(77, 70, 250, 0.1);
+  border-radius: 12px;
+  margin-top: 20px;
+}
+.yoursflight-wrapper {
+  padding: 15px 15px;
+
+  border-bottom: 1px solid rgba(77, 70, 250, 0.1);
+}
+.yourflights-date {
+  display: flex;
+  align-items: center;
+  margin-bottom: 16px;
+}
+.yourflights-dateTop {
+  font-family: "SVN-Biennale";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+  /* identical to box height */
+
+  color: #000000;
+}
+.yourflights-dateBottom {
+  font-family: "SVN-Biennale";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 21px;
+
+  color: #000000;
+}
+.yourflights-dateLogo {
+  width: 30px;
+  height: 30px;
+  background: #979797;
+  border-radius: 50%;
+  margin-right: 15px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  color: #ffff;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 21px;
+}
+
+.yourflights-brand {
+  display: flex;
+  align-items: center;
+}
+.yourflights-brandlogo {
+  width: 30px;
+  overflow: hidden;
+  height: 30px;
+  margin-right: 15px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 6px;
+}
+.yourflights-brandlogo img {
+  width: 100%;
+}
+.yourflights-datedetails {
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 18px;
+  text-decoration-line: underline;
+
+  color: #4d46fa;
+}
+.yourflights-stuff {
+  justify-content: space-between;
+}
+.yourflights-dateTwo-wrapper {
+  padding: 19px 15px;
+}
+
+.yourflights-dateLogo-two {
+  background: #4d46fa;
+}
+.yourflights-total-price {
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 21px;
+
+  color: #f06336;
+}
+.flight-time-date {
+  position: relative;
+}
+.flight-time-date::after {
+  position: absolute;
+  content: "";
+  width: 6px;
+  height: 6px;
+  top: 18px;
+  left: 158px;
+  border-radius: 50%;
+  background-color: #4d46fa;
+}
+.flight-btn {
+  border: none;
+  background: rgba(77, 70, 250, 0.1);
+  padding: 3px 5px;
+}

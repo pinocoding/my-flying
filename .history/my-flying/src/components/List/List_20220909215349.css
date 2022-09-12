@@ -1,0 +1,32 @@
+.list-container {
+  display: flex;
+
+  padding: 0 171px 0 171px;
+}
+
+.list-row {
+  width: 100%;
+  margin-top: 10px;
+}
+.list {
+  background-color: #e5e5e5;
+  position: relative;
+  z-index: 0;
+}
+.list-userFlight {
+  margin-left: 10px;
+}
+.list-filter {
+  justify-content: flex-end;
+  display: flex;
+  gap: 0 5px;
+}
+.select {
+  padding: 8px 15px;
+  border-radius: 12px;
+  width: 120px;
+  position: relative;
+}
+.selectdown-icon {
+  position: absolute;
+}

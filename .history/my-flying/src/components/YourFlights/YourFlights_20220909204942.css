@@ -1,0 +1,16 @@
+.yourflights {
+  width: 270px;
+  height: 433px;
+
+  background: #ffffff;
+  border-radius: 12px;
+  padding: 14px 15px;
+}
+
+
+
+
+.yourflights-total {
+  background: #f8f8f8;
+  border-radius: 0px 0px 12px 12px;
+}

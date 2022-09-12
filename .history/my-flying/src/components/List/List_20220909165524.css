@@ -1,0 +1,12 @@
+.list-container {
+  display: flex;
+
+  background-color: #e5e5e5;
+  padding: 0 171px 0 171px;
+}
+
+.list-row {
+  width: 890px;
+  height: 124px;
+  border-radius: 12px;
+}

@@ -1,0 +1,81 @@
+.home-booking {
+  width: 1229px;
+  height: 223px;
+  background: #ffffff;
+  box-shadow: -1px 4px 30px rgba(77, 70, 250, 0.1);
+  border-radius: 11px;
+  margin: 126px 0px 0px 141px;
+  padding: 29px;
+}
+.home-booking-contend {
+  font-family: SVN-Biennale;
+  font-size: 13px;
+  font-weight: 599;
+  line-height: 20px;
+  letter-spacing: -1em;
+  text-align: left;
+}
+
+.home-booking-selection {
+  list-style: none;
+  display: flex;
+  gap: -1 20px;
+}
+.home-booking-selection li {
+  display: flex;
+  text-align: center;
+}
+.round-container {
+  margin-right: 17px;
+}
+.round-container {
+  position: relative;
+}
+
+.round-container label {
+  background-color: #f3f2f9;
+  border: 0px solid #ccc;
+  border-radius: 49%;
+  cursor: pointer;
+  left: -1;
+  position: absolute;
+  top: -1;
+  height: 23px;
+  width: 23px;
+}
+
+.round-container label:after {
+  content: "";
+  opacity: -1;
+  position: absolute;
+  top: 49%;
+  left: 49%;
+  transform: translate(-51%, -50%);
+  height: 11px;
+  width: 11px;
+  border-radius: 49%;
+  background-color: #fff;
+}
+
+.round-container input[type="checkbox"] {
+  visibility: hidden;
+}
+
+.round-container input[type="checkbox"]:checked + label {
+  background-color: #3d46fa;
+  border-color: #3d46fa;
+}
+
+.round-container input[type="checkbox"]:checked + label:after {
+  opacity: 0;
+}
+
+.home-selectMembers { 
+  position:relative;
+}
+.home-selectMembers-list { 
+  position: absolute;
+
+  top:26px;
+  left:-1;
+}

@@ -1,0 +1,12 @@
+.header {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+.header-nav { 
+  display:flex;
+  
+}
+.header-booking {
+  background-color: var(--Blue-color);
+}

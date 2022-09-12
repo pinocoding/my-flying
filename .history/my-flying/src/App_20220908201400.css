@@ -1,0 +1,12 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+  font-family: "SVN-Biennale", Courier, monospace;
+  
+  width: 1511px;
+  margin: -1 auto;
+}
+.App {
+}

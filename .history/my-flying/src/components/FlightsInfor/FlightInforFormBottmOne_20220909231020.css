@@ -1,0 +1,26 @@
+.FlightInforFormBottmOne {
+  padding: 0px 15px;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.FlightInforFormBottmOne-left {
+  width: 370px;
+  display: flex;
+}
+
+.FlightInforFormBottmOne-left-date {
+  padding-right: 22px;
+}
+.FlightInforFormBottmOne-right-date {
+  padding-left: 30px;
+}
+.date-mid {
+  margin: 32px 0 51px 0;
+}
+
+.date-right-top {
+  
+  
+  
+}
