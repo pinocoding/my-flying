@@ -159,7 +159,7 @@ function TravelBooking({ show, handleShow, handleHide }) {
       </div>
 
       <button className="searchFlight-btn">
-        <a href="/my-flying/List">
+        <a href="/List">
           Search Flights
           <GrLinkNext className="next-Icon" />
         </a>
