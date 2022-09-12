@@ -2,9 +2,8 @@ import React, { useState } from "react";
 import {
   InDecreaBtnAdult,
   InDecreaBtnChildren,
+  import { BrowserRouter, Routes, Route } from "react-router-dom";
 } from "../InDecreaBtn/InDecreaBtn";
-
-import { Link } from "react-router-dom";
 import DatePicker from "react-widgets/DatePicker";
 import "react-widgets/styles.css";
 
@@ -161,10 +160,10 @@ function TravelBooking({ show, handleShow, handleHide }) {
       </div>
 
       <button className="searchFlight-btn">
-        <Link to="/my-flying/list">
+        <a href="/list">
           Search Flights
           <GrLinkNext className="next-Icon" />
-        </Link>
+        </a>
       </button>
     </div>
   );

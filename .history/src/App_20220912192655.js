@@ -7,10 +7,10 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <BrowserRouter>
+      <BrowserRouter basename="">
         <Routes>
           <Route path="/my-flying" element={<Home />} />
-          <Route path="/my-flying/list" element={<List />} />
+          <Route path="/my-fl/list" element={<List />} />
         </Routes>
       </BrowserRouter>
     </div>
