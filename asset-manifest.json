@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/my-flying/static/css/main.8069b5e4.chunk.css",
-    "main.js": "/my-flying/static/js/main.0692a2ec.chunk.js",
-    "main.js.map": "/my-flying/static/js/main.0692a2ec.chunk.js.map",
+    "main.js": "/my-flying/static/js/main.cc867eec.chunk.js",
+    "main.js.map": "/my-flying/static/js/main.cc867eec.chunk.js.map",
     "runtime-main.js": "/my-flying/static/js/runtime-main.3e76e1d2.js",
     "runtime-main.js.map": "/my-flying/static/js/runtime-main.3e76e1d2.js.map",
     "static/css/2.a727f6b3.chunk.css": "/my-flying/static/css/2.a727f6b3.chunk.css",
@@ -26,6 +26,6 @@
     "static/css/2.a727f6b3.chunk.css",
     "static/js/2.79330068.chunk.js",
     "static/css/main.8069b5e4.chunk.css",
-    "static/js/main.0692a2ec.chunk.js"
+    "static/js/main.cc867eec.chunk.js"
   ]
 }
